@@ -39,19 +39,14 @@ Data Retrieval: The D3 library fetches data from a JSON file hosted at https://s
 Visualization Creation: Plotly generates and updates bar and bubble charts within the dashboard.
 Interaction: Users can select a sample ID from a dropdown menu, triggering updates to charts and metadata.
 
-# Local Execution
-Clone the repository: git clone https://github.com/your-username/belly-button-biodiversity.git
-Navigate to the project directory: cd belly-button-biodiversity
-Open index.html in your web browser.
-
 # Technologies
 JavaScript
+
 D3.js and Plotly.js
+
 HTML
+
 JSON
 
 # License
 The project is licensed under the MIT License.
-
-# Contributions
-Contributions are welcome via issues or pull requests.
